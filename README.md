@@ -1,4 +1,4 @@
 Slingshot
 =========
 
-A HTML5 game
+An HTML5 game
